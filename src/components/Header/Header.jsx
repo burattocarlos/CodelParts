@@ -10,7 +10,7 @@ const Header = () => {
         <div className="flex items-center py-4">
           {/* Logo */}
           <div className="flex items-center ml-2 md:ml-8">            
-            <img src="./src/assets/codelsite.png" className="w-20 cursor-pointer" alt="Codel Parts"/>
+            <img src="/imagens/codelsite.png" className="w-20 cursor-pointer" alt="Codel Parts"/>
           </div>
 
           {/* Mobile Menu Button */}

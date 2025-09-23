@@ -2,8 +2,8 @@ import React from 'react';
 
 const Navigation = ({ mobile = false }) => {
   const navItems = [
-    { icon: '/src/assets/iconhwheel.png', label: 'PEÇAS EMPILHADEIRAS' },
-    { icon: '/src/assets/iconhtool.png', label: 'ACESSÓRIOS' }
+    { icon: '/imagens/iconhwheel.png', label: 'PEÇAS EMPILHADEIRAS' },
+    { icon: '/imagens/iconhtool.png', label: 'ACESSÓRIOS' }
   ];
 
   if (mobile) {

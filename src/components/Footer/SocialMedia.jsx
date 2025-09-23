@@ -2,8 +2,8 @@ import React from 'react';
 
 const SocialMedia = () => {
   const socialNetworks = [
-    { name: 'Instagram', color: 'bg-black', icon: '/src/assets/iconfinsta.png' },
-    { name: 'WhatsApp', color: 'bg-black', icon: '/src/assets/iconfwhats.png' }
+    { name: 'Instagram', color: 'bg-black', icon: '/imagens/iconfinsta.png' },
+    { name: 'WhatsApp', color: 'bg-black', icon: '/imagens/iconfwhats.png' }
   ];
 
   return (

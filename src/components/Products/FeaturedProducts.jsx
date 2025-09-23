@@ -3,19 +3,19 @@ import ProductCard from './ProductCard';
 
 const products = [
   {
-    image: '/src/assets/conector175.jpg',
+    image: '/imagens/conector175.jpg',
     title: 'Conector Power Anderson 175Ah'
   },
   {
-    image: '/src/assets/conector350.jpg',
+    image: '/imagens/conector350.jpg',
     title: 'Conector Power Anderson 350Ah'
   },
   {
-    image: '/src/assets/motorpartidaf2.jpg',
+    image: '/imagens/motorpartidaf2.jpg',
     title: 'Motor de partida Mazda F2'
   },
   {
-    image: '/src/assets/espelhoretrovisor.jpg',
+    image: '/imagens/espelhoretrovisor.jpg',
     title: 'Espelho retrovisor para empilhadeiras'
   }
 ];
