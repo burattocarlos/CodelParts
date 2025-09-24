@@ -5,7 +5,7 @@ const Banner = () => {
     <section className="w-full min-h-screen sm:min-h-[80vh] relative overflow-hidden">
       {/* Para mobile - foco no centro/direita onde está o produto */}
       <img 
-        src="/imagens/banner1.png"
+        src="/imagens/banner2.png"
         alt="banner conector power anderson"
         className="block sm:hidden w-full h-full min-h-screen object-cover"
         />
