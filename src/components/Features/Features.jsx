@@ -4,22 +4,22 @@ import FeatureCard from './FeatureCard';
 const Features = () => {
   const features = [
     {
-      icon: '/src/assets/iconfcartao.png',
+      icon: '/imagens/iconfcartao.png',
       title: 'ATÉ 12X SEM JUROS',
       description: 'peças e acessórios'
     },
     {
-      icon: '/src/assets/iconfentrega.png',
+      icon: '/imagens/iconfentrega.png',
       title: 'ENTREGA GARANTIDA',
       description: 'com total segurança'
     },
     {
-      icon: '/src/assets/iconfpecas.png',
+      icon: '/imagens/iconfpecas.png',
       title: 'TUDO EM PEÇAS',
       description: 'para empilhadeiras'
     },
     {
-      icon: '/src/assets/iconfcompra.png',
+      icon: '/imagens/iconfcompra.png',
       title: 'COMPRA SEGURA',
       description: 'ambiente protegido'
     }
